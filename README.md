@@ -1,4 +1,4 @@
-# Soft Campus Agency
+# COSMOS Agency
 
 ![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
@@ -8,13 +8,13 @@
 ![GSAP](https://img.shields.io/badge/GSAP-3.14-88CE02?style=for-the-badge&logo=greensock)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
 
-Welcome to the **Soft Campus Agency** repository. This is a high-end, premium digital agency landing page built with a dark-mode-first, cinematic design philosophy. It leverages modern web technologies to deliver an ultra-smooth, deeply interactive, and visually stunning user experience.
+Welcome to the **COSMOS Agency** repository. This is a high-end, premium digital agency landing page built with a dark-mode-first, cinematic design philosophy. It leverages modern web technologies to deliver an ultra-smooth, deeply interactive, and visually stunning user experience.
 
 ---
 
 ## ✦ Overview
 
-Soft Campus is designed to showcase an authority-driven digital agency. The website is engineered to feel less like a traditional webpage and more like a high-production interactive presentation. 
+COSMOS is designed to showcase an authority-driven digital agency. The website is engineered to feel less like a traditional webpage and more like a high-production interactive presentation. 
 
 With deep, rich black backgrounds, intense radial glows, smooth global scrolling physics, and staggered text-reveal micro-animations, this codebase serves as a blueprint for top-tier agency portfolios aiming for a "$100k valuation" aesthetic.
 
