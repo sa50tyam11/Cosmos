@@ -12,7 +12,7 @@ export default function Footer() {
               We collaborate with ambitious brands to create digital experiences that inspire and convert.
             </p>
             <a 
-              href="mailto:hello@softcampus.design" 
+              href="mailto:hello@cosmos.design" 
               className="inline-flex h-12 items-center justify-center px-8 rounded-full bg-white text-black font-medium hover:scale-105 transition-transform"
             >
               Get in touch
@@ -49,7 +49,7 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-gray-600 font-medium pt-8 border-t border-white/5">
-          <p>© {new Date().getFullYear()} Soft Campus. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} COSMOS. All rights reserved.</p>
           <div className="flex gap-6">
             <Link href="#" className="hover:text-gray-400 transition-colors">Privacy Policy</Link>
             <Link href="#" className="hover:text-gray-400 transition-colors">Terms of Service</Link>

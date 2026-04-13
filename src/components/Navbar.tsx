@@ -25,7 +25,7 @@ export default function Navbar() {
             href="/" 
             className="h-12 px-6 bg-[#1a1a1a]/80 backdrop-blur-md rounded-full flex items-center justify-center border border-white/5 hover:bg-[#222]/80 transition-colors shadow-2xl"
           >
-            <span className="text-sm font-medium tracking-wide">soft campus</span>
+            <span className="text-sm font-medium tracking-wide">COSMOS</span>
           </Link>
 
           {/* Right Pill (Menu Toggle) */}
