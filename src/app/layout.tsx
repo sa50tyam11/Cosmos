@@ -4,12 +4,14 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
+import GlobalLayout from "@/components/GlobalLayout";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "COSMOS | Modern Digital Agency",
-  description: "Crafting digital experiences that inspire and convert.",
+  title: "Soft Campus — Custom Software, Web & AI Solutions | Delhi, India",
+  description:
+    "Soft Campus is a Delhi-based software company with 12+ years of experience delivering custom software, web apps, mobile apps, AI/ML solutions, and cloud infrastructure to 1000+ clients across India, USA, Russia, and Armenia.",
 };
 
 export default function RootLayout({
@@ -26,9 +28,11 @@ export default function RootLayout({
           enableSystem={false}
           disableTransitionOnChange
         >
-          <Navbar />
-          <main className="min-h-screen pt-20">{children}</main>
-          <Footer />
+          <GlobalLayout>
+            <Navbar />
+            <main className="min-h-screen pt-20">{children}</main>
+            <Footer />
+          </GlobalLayout>
         </ThemeProvider>
       </body>
     </html>

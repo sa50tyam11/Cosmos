@@ -8,8 +8,8 @@
     --foreground: #ffffff;
     --surface: #0a0a0a;
     --border: #1f1f1f;
-    --accent: #a855f7;
-    --accent-hover: #c084fc;
+    --accent: #ff2b2b;
+    --accent-hover: #ff4b4b;
     --muted: #111111;
     --muted-foreground: #888888;
     --font-display: 'Inter', sans-serif;
@@ -21,8 +21,8 @@
     --foreground: #ffffff;
     --surface: #0a0a0a;
     --border: #1f1f1f;
-    --accent: #a855f7;
-    --accent-hover: #c084fc;
+    --accent: #ff2b2b;
+    --accent-hover: #ff4b4b;
     --muted: #111111;
     --muted-foreground: #888888;
   }
@@ -35,5 +35,12 @@
   
   h1, h2, h3, h4, h5, h6 {
     @apply font-display tracking-tighter text-foreground;
+  }
+}
+
+@layer utilities {
+  .split-line {
+    overflow: hidden;
+    display: block;
   }
 }
