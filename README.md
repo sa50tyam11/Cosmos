@@ -14,7 +14,7 @@ Welcome to the **COSMOS Agency** repository. This is a high-end, premium digital
 
 ## ✦ Overview
 
-COSMOS is designed to showcase an authority-driven digital agency. The website is engineered to feel less like a traditional webpage and more like a high-production interactive presentation. 
+COSMOS is designed to showcase an authority-driven digital agency. The website is engineered to feel less like a traditional webpage and more like a high-production interactive presentation.  sbybhisbxsj
 
 With deep, rich black backgrounds, intense radial glows, smooth global scrolling physics, and staggered text-reveal micro-animations, this codebase serves as a blueprint for top-tier agency portfolios aiming for a "$100k valuation" aesthetic.
 
